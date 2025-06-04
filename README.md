@@ -16,8 +16,15 @@ Next, the data set needs to be divided into the training set and the test set. T
 
 Finally, the logs file contains the trained model weight file best_epoch_weights.pth. However, due to its large size, it has been shared separately in the link for download.
 
+Vaihingen dataset：
 Files shared via cloud disk: best_epoch_weights.pth
 Link：https://pan.baidu.com/s/1ZTrnihyarBHlAOQEMgOEdg?pwd=aumu
+
+Potsdam dataset：
+Files shared via cloud disk：best_epoch_weights.pth
+Link： https://pan.baidu.com/s/18GOiC87AGtJ8IqhkI3vH6g?pwd=c2yy 
+
+When training the corresponding data set, using the corresponding weight file can save training time and directly obtain the trained results.
 
 ## Noting
 The training weights are trained using an image size of 256×256. If they are to be used, it is best to use the same size as well.
